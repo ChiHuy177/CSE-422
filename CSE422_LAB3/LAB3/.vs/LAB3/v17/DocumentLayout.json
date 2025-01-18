@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|d:\\github\\cse-422\\cse422_lab3\\lab3\\classes\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|solutionrelative:classes\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|d:\\github\\cse-422\\cse422_lab3\\lab3\\classes\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|solutionrelative:classes\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|d:\\github\\cse-422\\cse422_lab3\\lab3\\classes\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|solutionrelative:classes\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|d:\\github\\cse-422\\cse422_lab3\\lab3\\classes\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|solutionrelative:classes\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|d:\\github\\cse-422\\cse422_lab3\\lab3\\classes\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|solutionrelative:classes\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|d:\\github\\cse-422\\cse422_lab3\\lab3\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|solutionrelative:interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|d:\\github\\cse-422\\cse422_lab3\\lab3\\interfaces\\imemberaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|solutionrelative:interfaces\\imemberaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|d:\\github\\cse-422\\cse422_lab3\\lab3\\classes\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|solutionrelative:classes\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|d:\\github\\cse-422\\cse422_lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8ADC28-E5F2-4C1F-8BBB-E7AEC823C019}|LAB3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Classes\\NotificationService.cs",
+              "ToolTip": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\NotificationService.cs",
+              "RelativeToolTip": "Classes\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:05:29.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\Library.cs",
+              "RelativeDocumentMoniker": "Classes\\Library.cs",
+              "ToolTip": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\Library.cs",
+              "RelativeToolTip": "Classes\\Library.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:52:15.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReturnTransaction.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\ReturnTransaction.cs",
+              "RelativeDocumentMoniker": "Classes\\ReturnTransaction.cs",
+              "ToolTip": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\ReturnTransaction.cs",
+              "RelativeToolTip": "Classes\\ReturnTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:49:35.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BorrowTransaction.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\BorrowTransaction.cs",
+              "RelativeDocumentMoniker": "Classes\\BorrowTransaction.cs",
+              "ToolTip": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\BorrowTransaction.cs",
+              "RelativeToolTip": "Classes\\BorrowTransaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:48:58.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMemberAction.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Interfaces\\IMemberAction.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMemberAction.cs",
+              "ToolTip": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Interfaces\\IMemberAction.cs",
+              "RelativeToolTip": "Interfaces\\IMemberAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:47:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Interfaces\\IPrintable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPrintable.cs",
+              "ToolTip": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Interfaces\\IPrintable.cs",
+              "RelativeToolTip": "Interfaces\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:42:02.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PremiumMember.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\PremiumMember.cs",
+              "RelativeDocumentMoniker": "Classes\\PremiumMember.cs",
+              "ToolTip": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\PremiumMember.cs",
+              "RelativeToolTip": "Classes\\PremiumMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:29:59.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\Member.cs",
+              "RelativeDocumentMoniker": "Classes\\Member.cs",
+              "ToolTip": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Classes\\Member.cs",
+              "RelativeToolTip": "Classes\\Member.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:24:59.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\CSE-422\\CSE422_LAB3\\LAB3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:05:28.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
