@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|c:\\users\\wunhh\\desktop\\cse422_lab2\\cse422_lab2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|solutionrelative:cse422_lab2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|c:\\users\\wunhh\\desktop\\cse422_lab2\\cse422_lab2\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|solutionrelative:cse422_lab2\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|c:\\users\\wunhh\\desktop\\cse422_lab2\\cse422_lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|solutionrelative:cse422_lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|c:\\users\\wunhh\\desktop\\cse422_lab2\\cse422_lab2\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|solutionrelative:cse422_lab2\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|c:\\users\\wunhh\\desktop\\cse422_lab2\\cse422_lab2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|solutionrelative:cse422_lab2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|c:\\users\\wunhh\\desktop\\cse422_lab2\\cse422_lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|solutionrelative:cse422_lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|c:\\users\\wunhh\\desktop\\cse422_lab2\\cse422_lab2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5229AA9-ACBC-4732-898B-5D9C50E9C10E}|CSE422_Lab2\\CSE422_Lab2.csproj|solutionrelative:cse422_lab2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CSE422_Lab2\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CSE422_Lab2\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-11T06:55:36.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CSE422_Lab2\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CSE422_Lab2\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:47:02.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "CSE422_Lab2\\Controllers\\DevicesController.cs",
+              "ToolTip": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "CSE422_Lab2\\Controllers\\DevicesController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:45:55.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CSE422_Lab2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CSE422_Lab2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T06:33:47.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CSE422_Lab2\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CSE422_Lab2\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwFEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:31:43.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "CSE422_Lab2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\appsettings.json",
+              "RelativeToolTip": "CSE422_Lab2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T06:17:47.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "CSE422_Lab2\\Models\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\Wunhh\\Desktop\\CSE422_LAB2\\CSE422_Lab2\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "CSE422_Lab2\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:10:31.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
